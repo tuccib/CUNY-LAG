@@ -1,0 +1,21 @@
+Customer_ID,Policy_ID,First_Name,Last_Name,Customer_Type,City,Birthday,Age,Risk_Score,Car_Make,Car_Model
+777543800,P987654800,Bob,Smith ,Individual,New York ,7/1/1940, 81 ,8,Toyota ,Rava
+777543801,P987654801,Fred,Jones,Individual,Chicago,2/28/1943, 78 ,7,Hyundai,Sorrento
+777543802,P987654802,Sue,Johnson,Individual,Los Angeles,10/29/1945, 75 ,6,Ford,Escape
+777543803,P987654803,Jane,Thomason,Business,New York ,6/28/1950, 71 ,5,Chevrolet,Impala
+777543804,P987654804,Mark,Weiss,Individual,Miami,2/25/1957, 64 ,3,Toyota ,Rava
+777543805,P987654805,Tom,Black ,Individual,Detroit,10/26/1963, 57 ,3,Honda,Civic
+777543806,P987654806,Joe,Rodriquez,Individual,New York ,6/25/1966, 55 ,4,Nissan ,Pathfinder
+777543807,P987654807,Alfred,Sanchez,Business,Boston,2/22/1969, 52 ,5,Ford ,Fusion
+777543808,P987654808,Mary,Nunez,Individual,Atlanta,10/23/1971, 49 ,5,Toyota ,Rava
+777543809,P987654809,Robert,Chang,Individual,New York ,6/22/1974, 47 ,5,Hyundai,Sorrento
+777543810,P987654810,Ralf,Patel,Individual,Los Angeles,2/19/1977, 44 ,5.5,Ford,Escape
+777543811,P987654811,Alice,Cohen,Business,Cleveland,10/20/1979, 41 ,6,Chevrolet,Impala
+777543812,P987654812,Angel,Ortiz,Individual,Los Angeles,6/19/1982, 39 ,6.5,Toyota ,Rava
+777543813,P987654813,Lisa,White,Individual,Miami,2/16/1985, 36 ,7,Honda,Civic
+777543814,P987654814,Nancy,Brown,Individual,Dallas,10/17/1987, 33 ,7.5,Nissan ,Pathfinder
+777543815,P987654815,Frank,Carpenter,Business,Los Angeles,6/16/1990, 31 ,8,Ford ,Fusion
+777543816,P987654816,John,Williams,Individual,Phoenix,2/13/1993, 28 ,8.5,Toyota ,Rava
+777543817,P987654817,William,Johnson,Individual,Washington,10/14/1995, 25 ,9,Hyundai,Elantra
+777543818,P987654818,Henry,Rinaldi,Individual,Miami,6/13/1999, 22 ,9.2,Cadillac,Escalade
+777543819,P987654819,Jack,Stone,Business,Atlanta,2/10/2002, 19 ,9.5,Chevrolet,Yukon
